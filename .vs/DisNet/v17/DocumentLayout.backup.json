@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozotov\\source\\repos\\DisNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\websocket\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\websocket\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\core\\discordconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\core\\discordconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\api\\httpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\api\\httpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\core\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\core\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\core\\discordclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\core\\discordclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|c:\\users\\ozotov\\source\\repos\\disnet\\disnet\\disnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4459D40A-C338-4F19-8E0D-F85F90BDA551}|DisNet\\DisNet.csproj|solutionrelative:disnet\\disnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\WebSocket\\WebSocketClient.cs",
+              "RelativeDocumentMoniker": "DisNet\\WebSocket\\WebSocketClient.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\WebSocket\\WebSocketClient.cs",
+              "RelativeToolTip": "DisNet\\WebSocket\\WebSocketClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:23:16.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "DisNet\\Core\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\CommandHandler.cs",
+              "RelativeToolTip": "DisNet\\Core\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:22:16.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscordClient.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\DiscordClient.cs",
+              "RelativeDocumentMoniker": "DisNet\\Core\\DiscordClient.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\DiscordClient.cs",
+              "RelativeToolTip": "DisNet\\Core\\DiscordClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:21:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Program.cs",
+              "RelativeDocumentMoniker": "DisNet\\Program.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Program.cs",
+              "RelativeToolTip": "DisNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:19:55.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\API\\HttpClient.cs",
+              "RelativeDocumentMoniker": "DisNet\\API\\HttpClient.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\API\\HttpClient.cs",
+              "RelativeToolTip": "DisNet\\API\\HttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:23:39.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "DisNet\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Models\\Message.cs",
+              "RelativeToolTip": "DisNet\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:22:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscordConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\DiscordConfig.cs",
+              "RelativeDocumentMoniker": "DisNet\\Core\\DiscordConfig.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Core\\DiscordConfig.cs",
+              "RelativeToolTip": "DisNet\\Core\\DiscordConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:22:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DisNet\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\Models\\User.cs",
+              "RelativeToolTip": "DisNet\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:22:56.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisNet",
+              "DocumentMoniker": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\DisNet.csproj",
+              "RelativeDocumentMoniker": "DisNet\\DisNet.csproj",
+              "ToolTip": "C:\\Users\\ozotov\\source\\repos\\DisNet\\DisNet\\DisNet.csproj",
+              "RelativeToolTip": "DisNet\\DisNet.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T18:22:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

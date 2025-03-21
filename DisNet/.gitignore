@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+*.sln
+*.csproj.user
+*.suo
+*.user
+
+# .NET
+bin/
+obj/
+*.nupkg
+*.snupkg
+
+# IDE
+.vscode/
+.idea/
